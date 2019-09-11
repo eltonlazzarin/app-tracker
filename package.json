@@ -1,0 +1,29 @@
+{
+  "name": "app-tracker",
+  "version": "1.0.0",
+  "description": "Tracker REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonlazzarin/app-tracker.git"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "shortid": "^2.2.8",
+    "mongoose": "^5.0.7",
+    "dotenv": "^5.0.1"
+	},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonlazzarin/app-tracker/issues"
+  },
+  "homepage": "https://github.com/eltonlazzarin/app-tracker#readme"
+}
